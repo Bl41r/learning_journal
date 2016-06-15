@@ -1,4 +1,4 @@
-# Heading (This is a demo file)
+# Heading
 ## Smaller Heading
 - list item1
 - list item2
@@ -14,3 +14,4 @@ function do a thing()  {
 ```
 
 This is my text, *there* is **much like** it but this one is mine
+This is a ~~strike~~
