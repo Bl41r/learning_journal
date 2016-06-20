@@ -1,0 +1,2 @@
+## Learning Journal Day 5
+Day 5 was interesting as the pace of the class is gathering momentum.  First, we did a code review and I learned a couple of cool tricks with javascript.  We covered a lot of information about functions, and practiced writing our own.  We also discussed branching and deploying our website online with GitHub.  We also went over positioning schemes with CSS.  I will need to practice the CSS more!
